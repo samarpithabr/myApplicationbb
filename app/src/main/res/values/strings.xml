@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_to_bit_brothers">Welcome to Bit Brothers</string>
+    <string name="signuphome">Signup</string>
+    <string name="loginhome">Login</string>
+    <string name="enter_passwordlog">Enter password</string>
+    <string name="passwordlog">Password</string>
+    <string name="enter_emailsign">Enter Email:</string>
+    <string name="email_idsign">Email id:</string>
+    <string name="first_namesignup">First Name</string>
+    <string name="enter_fnamesignup">Enter FName</string>
+    <string name="last_namesignup">Last name</string>
+    <string name="enter_lnamesignup">Enter Lname</string>
+    <string name="enter_emailsignup">Enter email</string>
+    <string name="passwordsignup">Password</string>
+    <string name="enter_passwordsignup">Enter password</string>
+    <string name="signupbtn">Signup</string>
+</resources>
